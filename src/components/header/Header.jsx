@@ -12,7 +12,7 @@ const Header = (props) => {
   const pathName  = props?.location?.pathname;
   return (<>
         <Navbar collapseOnSelect expand="lg"  sticky="top" className="header">
-     <LinkContainer as={NavLink} to="/">
+     <LinkContainer  to="/">
         <Nav.Link  className="nav_link">
     <Navbar.Brand className="header_home">
           <img src="https://raw.githubusercontent.com/SaketP-cyber/Personalpics/main/sign.png" width="150px" height="50px"></img>

@@ -38,17 +38,17 @@ export default {
             icons:<LinkedInIcon/>
         }
     },
-    about:"Hello,I am btech 2nd Year Student.I am beginner at Web development more likely in Front end.I am also doing Competetive programming and trying to ge good at that 😄.  ",
+    about:"A keen learner having the passion to do work with good problem solving skills. My strengths include a deep understanding of technology, creative thinking, C++, Data Structure & Algorithms and team building. Besides these qualities I have good coding abilities, communication skills, and can handle tasks individually or in a group.",
   expreience:[
 {
     title:"Internship at Verzeo",
     date:"September 2020-October 2020",
-    desp:"It is two months long training with one minor and one maizor project."
+    desp:"It is two months long training with one minor and one major project."
 },
 {
     title:"Member at Club",
     date:"October 2019-August 2020",
-    desp:"I had been member of EMR Club NIT Kurukshetra"
+    desp:"I had been member of EMR Club at NIT Kurukshetra"
 }
   ],
   
@@ -100,14 +100,6 @@ export default {
         {
             title:"Front-end",
             description:["HTML","CSS","Javascript","ReactJs"]
-        },
-        {
-            title:"Back-end",
-            description:["NodeJs"] 
-        },
-        {
-            title:"Database",
-            description:["Mongo db","Postgre Sql"] 
         },
         {
             title:"Source control",

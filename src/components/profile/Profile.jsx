@@ -54,7 +54,7 @@ const Profile = () => {
           characters={resumeData.name}
           onComplete={() => [false, 5000]}
         /></Typography>
-          <Typography className="title">Web Developer| 3⭐⭐⭐ <a href="https://www.codechef.com/users/purwar" target="__blank" style={{textDecoration:"none",color:"rgb(99, 99, 99)"}}>Codechef</a></Typography>
+          <Typography className="title">Explorer| 4⭐⭐⭐⭐ <a href="https://www.codechef.com/users/purwar" target="__blank" style={{textDecoration:"none",color:"rgb(99, 99, 99)"}}>Codechef</a></Typography>
         </div>
         <div className="profile_img">
           <img
@@ -77,7 +77,7 @@ const Profile = () => {
             
           </Timeline1>
           <div className="container_btn">
-          <a href="https://drive.google.com/file/d/1-tuinTsueONw0HSsYRg4brQBFuSKgLpT/view?usp=sharing" target="__blank" > <Cust_button text={"See My Resume"} icon={<GetAppIcon />} /></a>
+          <a href="https://drive.google.com/file/d/18_IZYmyi2dtK8xG6a5mdqhgSY5VKfOMa/view?usp=sharing" target="__blank" > <Cust_button text={"See My Resume"} icon={<GetAppIcon />} /></a>
            
           </div>
         </div>
